@@ -1,4 +1,7 @@
 
+[XD View](https://xd.adobe.com/view/b526cfad-e0cb-464f-8bd2-67275cc2f84c-e075/)
+
+
 <span>
   <img src="./랭킹화면.png" width="240px" />
 </span>
