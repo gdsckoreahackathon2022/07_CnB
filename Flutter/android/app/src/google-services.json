@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968257764619",
+    "project_id": "gdsc-hackathon-cnb",
+    "storage_bucket": "gdsc-hackathon-cnb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968257764619:android:17cfec56c646e921fc360e",
+        "android_client_info": {
+          "package_name": "com.example.shallwe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968257764619-cn2ohllskgpn5jvhump9ak6irhcpfl8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHHwgO0bNA-9hRPSLY37VouDBlayC3XdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968257764619-cn2ohllskgpn5jvhump9ak6irhcpfl8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,311 @@
+{
+  "0": {
+      "answer":{
+          "0": {
+            "content": "계절품의 영향 때문이다",
+            "check": true
+          },
+          "1": {
+            "content": "태양의 고도가 높기 때문이다",
+            "check": false
+          },
+          "2": {
+            "content": "인구가 밀집돼 있기 때문이다",
+            "check": false
+          },
+          "3": {
+            "content": "해류의 영향 때문이다",
+            "check": false
+          }
+      },
+      "question": "우리나라의 연평균기온은 서해안보다 동해안지방이 더 따뜻하다. 그 주요한 원인은?"
+  },
+  "1": {
+      "answer":{
+          "0": {
+            "content": "공기의 저항이 있기 때문이다",
+            "check": true
+          },
+          "1": {
+            "content": "구름을 형성하고 있는 물방울의 속이 비었기 때문이다",
+            "check": false
+          },
+          "2": {
+            "content": "구름은 미세한 속도로 떨어지기 때문에 우리 눈에는 떠 있는 것처럼 보인다",
+            "check": false
+          },
+          "3": {
+            "content": "대기중의 부유 물 같이 그 크기가 아주 미소하기 때문이다",
+            "check": false
+          }
+      },
+      "question": "구름이 하늘에 떠 있는 근본적인 원인은?"
+  },
+  "2": {
+      "answer":{
+          "0": {
+            "content": "고기압 지역",
+            "check": false
+          },
+          "1": {
+            "content": "기압이 낮은 지역",
+            "check": false
+          },
+          "2": {
+            "content": "등압선간격이 넓은 지역",
+            "check": false
+          },
+          "3": {
+            "content": "등압선간격이 조밀한 지역",
+            "check": true
+          }
+      },
+      "question": "지상 일기도에서 바람이 가장 강하게 부는 지역은?"
+  },
+  "3": {
+      "answer":{
+          "0": {
+            "content": "기압이 1013밀리바(mb)보다 높은 곳",
+            "check": false
+          },
+          "1": {
+            "content": "기압이 1000mb보다 높은 곳",
+            "check": false
+          },
+          "2": {
+            "content": "기압이 990mb보다 높은 곳",
+            "check": false
+          },
+          "3": {
+            "content": "주위보다 기압이 높은 곳",
+            "check": true
+          }
+      },
+      "question": "흔히 일기예보 때 우리 나라에 고기압이 위치하고 있어 날씨가 맑다고 예보한다. 이때 고기압의 의미는?"
+  },
+  "4": {
+      "answer":{
+          "0": {
+            "content": "일중 최고기온이 25도 이상인 날",
+            "check": false
+          },
+          "1": {
+            "content": "일중 최저기온이 25도 이상인 날",
+            "check": true
+          },
+          "2": {
+            "content": "일중 평균기온이 25도 이상인 날",
+            "check": false
+          },
+          "3": {
+            "content": "일중 불쾌지수가 90이상인 날",
+            "check": false
+          }
+      },
+      "question": "우리나라에서 무더운 여름밤에 나타나는 열대야 현상이란?"
+  },
+  "5": {
+      "answer":{
+          "0": {
+            "content": "증가한다",
+            "check": false
+          },
+          "1": {
+            "content": "감소한다",
+            "check": true
+          },
+          "2": {
+            "content": "감소하다 증가한다",
+            "check": false
+          },
+          "3": {
+            "content": "증가하다 감소한다",
+            "check": false
+          }
+      },
+      "question": "일반적으로 온도가 상승하면 습도는?"
+  },
+  "6": {
+      "answer":{
+          "0": {
+            "content": "평지보다 공기가 깨끗하기 때문이다",
+            "check": false
+          },
+          "1": {
+            "content": "평지보다 온도가 낮기 때문이다",
+            "check": false
+          },
+          "2": {
+            "content": "평지보다 산소 량이 적기 때문이다",
+            "check": false
+          },
+          "3": {
+            "content": "평지보다 기압이 낮기 때문이다",
+            "check": true
+          }
+      },
+      "question": "산에 올라가 밥을 하는 경우 밥이 설익는 경우가 많다. 그 이유는?"
+  },
+  "7": {
+      "answer":{
+          "0": {
+            "content": "평지보다 공기가 깨끗하기 때문이다",
+            "check": false
+          },
+          "1": {
+            "content": "평지보다 온도가 낮기 때문이다",
+            "check": false
+          },
+          "2": {
+            "content": "평지보다 산소 량이 적기 때문이다",
+            "check": false
+          },
+          "3": {
+            "content": "평지보다 기압이 낮기 때문이다",
+            "check": true
+          }
+      },
+      "question": "산에 올라가 밥을 하는 경우 밥이 설익는 경우가 많다. 그 이유는?"
+  },
+  "8": {
+      "answer":{
+          "0": {
+            "content": "물이 증발할 때 열을 흡수하기 때문이다",
+            "check": true
+          },
+          "1": {
+            "content": "수증기가 응결할 때 열을 방출하기 때문이다",
+            "check": false
+          },
+          "2": {
+            "content": "물의 온도가 낮기 때문이다",
+            "check": false
+          },
+          "3": {
+            "content": "수증기가 햇빛을 차단하기 때문이다",
+            "check": false
+          }
+      },
+      "question": "더운 여름날 마당에 물을 뿌리면 시원한 이유는?"
+  },
+  "9": {
+      "answer":{
+          "0": {
+            "content": "구름이 너무 높이 있으므로",
+            "check": false
+          },
+          "1": {
+            "content": "구름 속에 물방울만 있으므로",
+            "check": false
+          },
+          "2": {
+            "content": "구름의 운동속도가 빠르므로",
+            "check": false
+          },
+          "3": {
+            "content": "빙정 핵이 부족하므로",
+            "check": true
+          }
+      },
+      "question": "구름이 있어도 비가 내리지 않는 이유로 가장 옳은 것은?"
+  },
+  "10": {
+      "answer":{
+          "0": {
+            "content": "대기중 화산재의 증가",
+            "check": false
+          },
+          "1": {
+            "content": "대기중 먼지의 증가",
+            "check": false
+          },
+          "2": {
+            "content": "대기중 이산화탄소의 증가",
+            "check": false
+          },
+          "3": {
+            "content": "극지방 열음의 증가",
+            "check": true
+          }
+      },
+      "question": "구름이 있어도 비가 내리지 않는 이유로 가장 옳은 것은?"
+  },
+  "11": {
+      "answer":{
+          "0": {
+            "content": "O",
+            "check": true
+          },
+          "1": {
+            "content": "X",
+            "check": false
+          }
+      },
+      "question": "화분은 일반쓰레기다, 아니다?"
+  },
+  "12": {
+      "answer":{
+          "0": {
+            "content": "O",
+            "check": false
+          },
+          "1": {
+            "content": "X",
+            "check": true
+          }
+      },
+      "question": "고추장, 간장, 싼장등 장류는 음식물 쓰레기다, 아니다?"
+  },
+  "13": {
+      "answer":{
+          "0": {
+            "content": "O",
+            "check": false
+          },
+          "1": {
+            "content": "X",
+            "check": true
+          }
+      },
+      "question": "칫솔은 플라스틱 재활용 쓰레기다, 아니다?"
+  },
+  "14": {
+      "answer":{
+          "0": {
+            "content": "O",
+            "check": false
+          },
+          "1": {
+            "content": "X",
+            "check": true
+          }
+      },
+      "question": "칫솔은 플라스틱 재활용 쓰레기다, 아니다?"
+  },
+  "15": {
+      "answer":{
+          "0": {
+            "content": "O",
+            "check": false
+          },
+          "1": {
+            "content": "X",
+            "check": true
+          }
+      },
+      "question": "도자기, 사기는 재활용 쓰레기다, 아니다?"
+  },
+  "16": {
+      "answer":{
+          "0": {
+            "content": "O",
+            "check": false
+          },
+          "1": {
+            "content": "X",
+            "check": true
+          }
+      },
+      "question": "패스트푸드 음료컵의 뚜겅과 빨대는 모두 플라스틱에 포함된다, 안된다."
+  }
+}
