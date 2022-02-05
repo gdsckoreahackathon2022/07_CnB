@@ -8,7 +8,11 @@
   </p>
 </p>
 
-
+<p align="center">
+  <a target="_blank" href="https://github.com/GDSC-Hackaton-Team-CnB/BetaTest/raw/main/app-release.apk/app-release.apk">
+    <h6 align="center">APK Download</h3>
+  </a>
+</p>
 
 # 목차
 1. [프로젝트 설명](#content1)
